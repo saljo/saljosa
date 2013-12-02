@@ -1,4 +1,0 @@
-ProTaMa
-=======
-
-Protama app
